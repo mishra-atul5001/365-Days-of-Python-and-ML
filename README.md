@@ -13,3 +13,7 @@ For any query/issues, you are welcome to open an issue.
 
 *Write a function that will return the count of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in the input string. The input string can be assumed to contain only alphabets (both uppercase and lowercase) and numeric digits.*
 
+### ***Day 2:***
+
+*Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.*
+
