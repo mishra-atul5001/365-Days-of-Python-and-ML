@@ -7,6 +7,10 @@ Creating a Repo for Continuous practice towards Python Exercises and ML Exercise
 
 Star it/ Fork it and contribute with questions.
 
+[![Mishra's github stats](https://github-readme-stats.vercel.app/api?username=mishra-atul5001&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishra-atul5001)](https://github.com/mishra-atul5001/github-readme-stats)
+
 For any query/issues, you are welcome to open an issue.
 
 ### ***Day 1:***
