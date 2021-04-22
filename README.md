@@ -19,3 +19,8 @@ For any query/issues, you are welcome to open an issue.
 
 *Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.*
 
+### ***Day 3:***
+
+*POSITIVE or NEGATIVE ?
+If the blood composition of the person is a subsequence of the virus composition V, then the person is identified as POSITIVE otherwise NEGATIVE.*
+
