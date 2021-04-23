@@ -24,3 +24,18 @@ For any query/issues, you are welcome to open an issue.
 *POSITIVE or NEGATIVE ?
 If the blood composition of the person is a subsequence of the virus composition V, then the person is identified as POSITIVE otherwise NEGATIVE.*
 
+### ***Day 4:***
+
+*Given a right angled triangle ABC, right angled at B. Find angle ABD, where D is the mid-point of the hypotenuse(side AC).*
+
+### ***Day 5:***
+
+*Coming Soon*
+
+### ***Day 6:***
+
+*Coming Soon*
+
+### ***Day 7:***
+
+*ML Challenge*
