@@ -4,6 +4,7 @@ Creating a Repo for Continuous practice towards Python Exercises and ML Exercise
 
 - 6 days awesome Python Practice on random logical questions and,
 - 7th Day one ML Use case which can be carries over if needed.
+- Based on my availability and some spare time, will be adding some bonus questions/topics. For example, Sorting in Python/Linked List concept in Python, etc.
 
 Star it/ Fork it and contribute with questions.
 
