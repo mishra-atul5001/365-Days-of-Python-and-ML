@@ -30,7 +30,7 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 5:***
 
-*Coming Soon*
+*Given a list of integers prices representing prices of cars for sale, and a budget k, return the maximum number of cars you can buy.*
 
 ### ***Day 6:***
 
