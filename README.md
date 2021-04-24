@@ -4,10 +4,9 @@ Creating a Repo for Continuous practice towards Python Exercises and ML Exercise
 
 - 6 days awesome Python Practice on random logical questions and,
 - 7th Day one ML Use case which can be carries over if needed.
+- Based on my availability and some spare time, will be adding some bonus questions/topics. For example, Sorting in Python/Linked List concept in Python, etc.
 
 Star it/ Fork it and contribute with questions.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishra-atul5001)](https://github.com/mishra-atul5001/github-readme-stats)
 
 For any query/issues, you are welcome to open an issue.
 
@@ -30,7 +29,7 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 5:***
 
-*Coming Soon*
+*Given a list of integers prices representing prices of cars for sale, and a budget k, return the maximum number of cars you can buy.*
 
 ### ***Day 6:***
 
