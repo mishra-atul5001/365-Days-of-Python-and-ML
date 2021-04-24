@@ -35,6 +35,35 @@ while index < len(arr):
 print('max',max_num)
         
 
-        
-    
+"""
+List Min Replacement
 
+Given a list of integers nums, replace every nums[i] with the smallest integer left of i. Replace nums[0] with 0.
+
+Constraints
+    1 ≤ n ≤ 100,000 where n is the length of nums
+
+Input: nums = [10, 5, 7, 9]
+Ouput: [0, 10, 5, 5]
+
+Explanation:
+    
+    nums[0] = 0 by definition
+    nums[1] = min(10)
+    nums[2] = min(5, 10)
+    nums[3] = min(7, 5, 10)
+
+"""
+
+def list_min_replacement(nums):
+    nums_min = nums [0]
+  
+    nums[0] = 0
+    for i in range(1,len(nums)):
+        if nums_min < nums[i]:
+            nums[i] = nums_min
+        elif nums_min >= nums[i]:
+            nums[i],nums_min = nums_min,nums[i]
+    return nums
+
+print(list_min_replacement([10, 5, 7, 9]))
