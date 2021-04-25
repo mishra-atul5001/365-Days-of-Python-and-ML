@@ -37,4 +37,19 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 7:***
 
-*ML Challenge*
+*ML Challenge:*
+  - *Stock Price Prediction*
+  - *Future Predictions*
+  - *Final Results*
+
+### ***Day 8:***
+
+*Coming Soon*
+
+### ***Day 9:***
+
+*Coming Soon*
+
+### ***Day 10:***
+
+*Coming Soon*
