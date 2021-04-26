@@ -44,7 +44,7 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 8:***
 
-*Coming Soon*
+*Longest Consecutive Duplicate String -> Given a lowercase alphabet string s, return the length of the longest substring with same characters.*
 
 ### ***Day 9:***
 
