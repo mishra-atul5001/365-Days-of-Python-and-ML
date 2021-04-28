@@ -52,4 +52,20 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 10:***
 
+*UGLY NUMBER -> Given an integer n, return whether its prime factors only include 2, 3 or 5.*
+
+### ***Day 11:***
+
+*Coming Soon*
+
+### ***Day 12:***
+
+*Coming Soon*
+
+### ***Day 13:***
+
+*Coming Soon*
+
+### ***Day 14:***
+
 *Coming Soon*
