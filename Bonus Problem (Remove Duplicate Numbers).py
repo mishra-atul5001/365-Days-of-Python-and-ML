@@ -62,6 +62,7 @@ def remove_duplicate_nums_m2(nums):
 
         # Print the element which appear
         # more than or equal to k times.
+        # print(freq[nums[i]])
         if (freq[nums[i]] <= 1):
             # print(nums[i])
             count.append(nums[i])
