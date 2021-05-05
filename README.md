@@ -88,7 +88,7 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 17:***
 
-*Coming Soon!*
+*Save the Prisoner! -> A jail has a number of prisoners and a number of treats to pass out to them. Their jailer decides the fairest way to divide the treats is to seat the prisoners around a circular table in sequentially numbered chairs. A chair number will be drawn from a hat. Beginning with the prisoner in that chair, one candy will be handed to each prisoner sequentially around the table until all have been distributed.*
 
 ### ***Day 18:***
 
