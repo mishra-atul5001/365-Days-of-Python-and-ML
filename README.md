@@ -92,4 +92,4 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 18:***
 
-*Coming Soon!*
+*Remove all consecutive duplicates from the string*
