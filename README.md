@@ -93,3 +93,27 @@ If the blood composition of the person is a subsequence of the virus composition
 ### ***Day 18:***
 
 *Remove all consecutive duplicates from the string*
+
+### ***Day 19:***
+
+*Drawing Book -> A teacher asks the class to open their books to a page number. A student can either start turning pages from the front of the book or from the back of the book. They always turn pages one at a time. When they open the book, page 1 is always on the right side. Given n and p, find and print the minimum number of pages that must be turned in order to arrive at page p.*
+
+### ***Day 20:***
+
+*Coming Soon*
+
+### ***Day 21:***
+
+*Coming Soon*
+
+### ***Day 22:***
+
+*Coming Soon*
+
+### ***Day 23:***
+
+*Coming Soon*
+
+### ***Day 24:***
+
+*Coming Soon*
