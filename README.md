@@ -100,7 +100,7 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 20:***
 
-*Coming Soon*
+*The Stolen Breakfast Drone -> Given the list of IDs, which contains many duplicate integers and one unique integer, find the unique integer.*
 
 ### ***Day 21:***
 
