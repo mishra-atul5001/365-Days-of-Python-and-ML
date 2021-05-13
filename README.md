@@ -104,7 +104,7 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 21:***
 
-*Coming Soon*
+*Beautiful Days at the Movies -> Given a range of numbered days [i.....j], and a number k, determine the number of days in the range that are beautiful. Beautiful numbers are defined as numbers where |i - reverse(i)| is evenly divisible by k. If a day's value is a beautiful number, it is a beautiful day. Return the number of beautiful days in the range.*
 
 ### ***Day 22:***
 
