@@ -108,7 +108,7 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 22:***
 
-*Coming Soon*
+***Picking Numbers** -> Given an array of integers, find the longest subarray where the absolute difference between any two elements is less than or equal to 1.* 
 
 ### ***Day 23:***
 
