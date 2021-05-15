@@ -112,7 +112,7 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 23:***
 
-*Coming Soon*
+***Climbing the Leaderboard***
 
 ### ***Day 24:***
 
