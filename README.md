@@ -127,7 +127,7 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 26:***
 
-*coming Soon*
+*Circular Array Rotation*
 
 ### ***Day 27:***
 
