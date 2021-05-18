@@ -117,3 +117,30 @@ If the blood composition of the person is a subsequence of the virus composition
 ### ***Day 24:***
 
 ***Utopian Tree** -> The Utopian Tree goes through 2 cycles of growth every year. Each spring, it doubles in height. Each summer, its height increases by 1 meter. A Utopian Tree sapling with a height of 1 meter is planted at the onset of spring. How tall will the tree be after n growth cycles?*
+
+### ***Day 25:***
+
+***Viral Advertising ->* HackerLand Enterprise is adopting a new viral advertising strategy. When they launch a new product, they advertise it to exactly 5 people on social media.
+- On the first day, half of those 5 people (i.e., floor(5/2) = 2 ) like the advertisement and each shares it with 3 of their friends. At the beginning of the second day,floor(5/2)*3 = 6 people receive the advertisement.
+- Each day, floor(reciepents/2) of the recipients like the advertisement and will share it with 3 friends on the following day. 
+Assuming nobody receives the advertisement twice, determine how many people have liked the ad by the end of a given day, beginning with launch day as day 1.**
+
+### ***Day 26:***
+
+*coming Soon*
+
+### ***Day 27:***
+
+*coming Soon*
+
+### ***Day 28:***
+
+*coming Soon*
+
+### ***Day 29:***
+
+*coming Soon*
+
+### ***Day 30:***
+
+*coming Soon*
