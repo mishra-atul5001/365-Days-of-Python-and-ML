@@ -131,7 +131,7 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 27:***
 
-*coming Soon*
+***BINARY GAP* -> Find the longest subsequence of zeros in binary respresentation of an integer.**
 
 ### ***Day 28:***
 
