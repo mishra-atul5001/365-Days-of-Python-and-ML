@@ -34,7 +34,7 @@ def binary_gap(N):
     return result
 
 print(binary_gap(121))
-
+print(binary_gap(10))
 
 # Another solution which is much easier
 def binary_gap_sol2(N):
@@ -55,3 +55,4 @@ def binary_gap_sol2(N):
     return count
 
 print(binary_gap_sol2(121))
+print(binary_gap_sol2(10))
