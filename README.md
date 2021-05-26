@@ -143,4 +143,26 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 30:***
 
-*coming Soon*
+***TapeEquilibrium***
+
+### ***Day 31:***
+
+***Coming Soon***
+
+### ***Day 32:***
+
+***Coming Soon***
+
+### ***Day 33:***
+
+***Coming Soon***
+
+### ***Day 34:***
+
+***Coming Soon***
+
+### ***Day 35:***
+
+***Coming Soon***
+
+
