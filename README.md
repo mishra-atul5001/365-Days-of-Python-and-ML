@@ -139,7 +139,7 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 29:***
 
-***PermMissingElem** -> Find the missing element in a given permutation. *
+***PermMissingElem** -> Find the missing element in a given permutation.*
 
 ### ***Day 30:***
 
