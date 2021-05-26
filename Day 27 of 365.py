@@ -33,4 +33,25 @@ def binary_gap(N):
     
     return result
 
-print(binary_gap(10))
+print(binary_gap(121))
+
+
+# Another solution which is much easier
+def binary_gap_sol2(N):
+    
+    # step1 = format(N,'b')
+    # print('Step1 :',step1,'-> Number gets converted to its BINARY form')
+    # step2 = format(N,'b').strip('0')
+    # print('Step2 :',step2,'-> It removes all the trailing ZEROES')
+    # step3 = format(N,'b').strip('0').split('1')
+    # print('Step3 :',step3, '-> Here we split the BINARY number based on 1s and only keep ZEROES')
+    # step4 = max(format(N,'b').strip('0').split('1'))
+    # print('Step4 :',step4, '-> Here we take the MAXIMUM sequence and next step returns the count of that!')
+    # step5 = len(max(format(N,'b').strip('0').split('1')))
+    # print('Step5 :',step5)
+    
+    # Cumulatively is below:
+    count = len(max(format(N,'b').strip('0').split('1')))
+    return count
+
+print(binary_gap_sol2(121))
