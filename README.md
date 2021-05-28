@@ -151,11 +151,11 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 32:***
 
-***Coming Soon***
+***PermCheck***
 
 ### ***Day 33:***
 
-***Coming Soon***
+***CountDiv***
 
 ### ***Day 34:***
 
