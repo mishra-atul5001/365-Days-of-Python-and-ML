@@ -163,6 +163,6 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 35:***
 
-***Coming Soon***
+***Finding Digits ->** Given an integer, for each digit that makes up the integer determine whether it is a divisor. Count the number of divisors occurring within the integer.*
 
 
