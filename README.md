@@ -165,4 +165,31 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ***Finding Digits ->** Given an integer, for each digit that makes up the integer determine whether it is a divisor. Count the number of divisors occurring within the integer.*
 
+### ***Day 36:***
+
+***Extra Long Factorials ->** Calculate and print the factorial of a given integer.*
+
+### ***Day 37:***
+
+***Coming Soon***
+
+### ***Day 38:***
+
+***Coming Soon***
+
+### ***Day 39:***
+
+***Coming Soon***
+
+### ***Day 40:***
+
+***Coming Soon***
+
+### ***Day 41:***
+
+***Coming Soon***
+
+### ***Day 42:***
+
+***Coming Soon***
 
