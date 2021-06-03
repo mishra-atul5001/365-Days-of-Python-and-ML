@@ -175,7 +175,7 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 38:***
 
-***Coming Soon***
+***Min Avg Two Slice ->** https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/*
 
 ### ***Day 39:***
 
