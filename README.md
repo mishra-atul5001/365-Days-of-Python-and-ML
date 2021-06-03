@@ -171,7 +171,7 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 37:***
 
-***Coming Soon***
+***Append and Delete***
 
 ### ***Day 38:***
 
