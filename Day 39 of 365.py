@@ -60,3 +60,16 @@ def MaxProductOfThree(list_to_check):
 print(MaxProductOfThree([-3,-2,2,1,4,5]))
 
 print(MaxProductOfThree([-3,1,2,-2,5,6]))
+
+
+'''
+Distinct
+
+Compute number of distinct values in an array. 
+'''
+
+def Distinct(A):
+    my_set = set(A)
+    return len(my_set)
+
+print(Distinct([2,1,1,2,3,1]))
