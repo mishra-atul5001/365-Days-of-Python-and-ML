@@ -179,7 +179,7 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 39:***
 
-***MaxProductOfThree ->**A non-empty array A consisting of N integers is given. The product of triplet (P, Q, R) equates to A[P] * A[Q] * A[R] (0 ≤ P < Q < R < N).*
+***MaxProductOfThree ->**A non-empty array A consisting of N integers is given. The product of triplet (P, Q, R) equates to A[P] x A[Q] x A[R] (0 ≤ P < Q < R < N).*
 
 ### ***Day 40:***
 
