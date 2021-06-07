@@ -183,7 +183,7 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 40:***
 
-***Coming Soon***
+***TRIANGLE***
 
 ### ***Day 41:***
 
