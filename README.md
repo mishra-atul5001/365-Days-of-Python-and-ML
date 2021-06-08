@@ -195,7 +195,7 @@ If the blood composition of the person is a subsequence of the virus composition
 
 ### ***Day 43:***
 
-***Coming Soon***
+***Fish Survival** -> https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/*
 
 ### ***Day 44:***
 
