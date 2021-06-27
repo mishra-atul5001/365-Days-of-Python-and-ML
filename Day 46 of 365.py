@@ -39,6 +39,7 @@ def function_3(numbers):
     for number in numbers:
         result_3.append(math.sqrt(number))
 
+# This part is necessary in order to tell my program not to messup when multi-processing is invoked
 if __name__ == '__main__':
     
     numbers_list = list(range(10000000))
