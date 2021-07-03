@@ -54,21 +54,21 @@ if __name__ == '__main__':
     
     print('Time taken without multiprocessing:',round(without_multi,2))
     
-    # # RUN TIME WHEN THE SAME FUNCTIONS WITH MULTI_PROCESSING
+    # RUN TIME WHEN THE SAME FUNCTIONS WITH MULTI_PROCESSING
     
-    # process_1 = mp.Process(target=function_1,args=(numbers_list,))
-    # process_2 = mp.Process(target=function_2,args=(numbers_list,))
-    # process_3 = mp.Process(target=function_3,args=(numbers_list,))
+    process_1 = mp.Process(target=function_1,args=(numbers_list,))
+    process_2 = mp.Process(target=function_2,args=(numbers_list,))
+    process_3 = mp.Process(target=function_3,args=(numbers_list,))
     
-    # start = time.time()
-    # process_1.start()
-    # process_2.start()
-    # process_3.start()
-    # end = time.time()
-    # with_multi = end - start
-    # print('Time taken WITH multiprocessing:',round(with_multi,2))
+    start = time.time()
+    process_1.start()
+    process_2.start()
+    process_3.start()
+    end = time.time()
+    with_multi = end - start
+    print('Time taken WITH multiprocessing:',round(with_multi,2))
     
-    # print('After multi-processing, script is {} times faster.'.format(round(without_multi/with_multi,2)))
+    print('After multi-processing, script is {} times faster.'.format(round(without_multi/with_multi,2)))
     
     
     
