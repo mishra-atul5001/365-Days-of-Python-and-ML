@@ -18,7 +18,7 @@ import pandas as pd
 import numpy as np
 
 # df_final_1 -> Date,Carrier_Fin,KPI_VALUE
-df_final_1 = pd.DataFrame(columns = ['Date','Carrier_Fin','KPI_VALUE'])
+df_final_1 = pd.DataFrame(columns = ['Date','Carrier_Fin','KPI_VALUE']).set_index('Date')
 
 unique_vals = df_final_1['Carrier_Fin'].unique().tolist()
 # unique_vals = [df_final_1['Carrier_Fin'].unique()]
